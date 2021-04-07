@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.border-box {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: grey;
+  padding: 25px;
+}
+
+.blue-square {
+  background-color: royalblue;
+  width: 50px;
+  height: 50px;
+}
+
+p {
+  margin: 0;
+}
+
+.text-box {
+  background-color: lightgray;
+  width: 100%;
+  height: 200px;
+  padding: 25px;
+}
+
+.color-box {
+  width: 100%;
+  height: 100px;
+}
+
+.one {
+  background-color: royalblue;
+}
+
+.two {
+  background-color: lightgreen;
+}
+
+.three {
+  background-color: yellowgreen;
+}
+
+.four {
+  background-color: yellow;
+}
